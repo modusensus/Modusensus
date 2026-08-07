@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Modusensus！ 👋
 
-<!--
-**modusensus/Modusensus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Exploring the intersection of **AI, Data, Design and Urban Studies**.
 
-Here are some ideas to get you started:
+I am a student in Urban Planning, interested in how emerging technologies can reshape the way we research, create and communicate.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently exploring:
+
+- 🤖 AI Agents & Automation Workflows
+- 📊 Data Analysis & Visualization
+- 🏙️ Urban Data & Spatial Analysis
+- ✍️ Digital Writing & Personal Knowledge Systems
+- 🎨 Editorial Design & Creative Technology
+
+
+## About Me
+
+My background is in urban planning, but my curiosity extends beyond traditional boundaries.
+
+I believe the future belongs to people who can connect different fields together — combining domain knowledge, computational tools and creative expression.
+
+My current learning path focuses on building practical systems:
