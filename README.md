@@ -1,22 +1,32 @@
-<font color="#ff6348">Hi, I'm Modusensus！</font>
+<div align="left">
+  <img src="https://readme-typing-svg.herokuapp.com/demo/?color=11F7DA&background=E9FF&lines=Hi%2C+I'm+Modusensus%EF%BC%81" alt="Hi"/>
+  <p>
+    <code>Urban Planning · Public Management</code>
+    <code>Exploring AI, Data & Design</code>
+  </p>
+</div>
 
-> Exploring the intersection of **AI, Data, Design and Urban Studies**.
+- 🏙️ Background in Urban Planning, interested in the intersection of spatial design, data analysis, and AI.
+- 🤖 Learning Python for spatial data analysis, building personal knowledge systems, and automation workflows.
+- 📝 Writing about cities, technology, and creative thinking on [Substack](https://[你的Substack链接]) and [Medium](https://[你的Medium链接]).
+- ✍️ Sharing my learning journey and projects on my [Blog](https://[你的博客链接]).
 
-I am a student in Urban Planning, interested in how emerging technologies can reshape the way we research, create and communicate.
+<p>
+  <samp>
+    <a href="https://[modusensus.space]">Blog</a> ·
+  </samp>
+</p>
 
-Currently exploring:
+---
 
-- 🤖 AI Agents & Automation Workflows
-- 📊 Data Analysis & Visualization
-- 🏙️ Urban Data & Spatial Analysis
-- ✍️ Digital Writing & Personal Knowledge Systems
-- 🎨 Editorial Design & Creative Technology
+### 🧭 What I'm currently exploring
 
+- **Urban Design & Spatial Equity** — Graduation project on GIS-based accessibility analysis.
+- **Python for Spatial Data** — Learning to apply data analysis and visualization in urban contexts.
+- **AI-Assisted Workflows** — Automating research and creative processes with tools like N8N and Dify.
+- **Digital Publishing** — Building a personal knowledge system through blogging and note-taking.
 
-## About Me
+---
 
-My background is in urban planning, but my curiosity extends beyond traditional boundaries.
-
-I believe the future belongs to people who can connect different fields together — combining domain knowledge, computational tools and creative expression.
-
-My current learning path focuses on building practical systems:
+> "Exploring how cities, data, and design can come together."  
+> — *Modusensus*
