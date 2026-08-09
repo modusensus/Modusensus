@@ -1,4 +1,4 @@
-# <font color="blue">Hi, I'm Modusensus！</font> 👋
+<font color="blue">Hi, I'm Modusensus！</font> 👋
 
 > Exploring the intersection of **AI, Data, Design and Urban Studies**.
 
