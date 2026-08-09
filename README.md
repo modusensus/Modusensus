@@ -8,12 +8,12 @@
 
 - 🏙️ Background in Urban Planning, interested in the intersection of spatial design, data analysis, and AI.
 - 🤖 Learning Python for spatial data analysis, building personal knowledge systems, and automation workflows.
-- 📝 Writing about cities, technology, and creative thinking on [Substack](https://[你的Substack链接]) and [Medium](https://[你的Medium链接]).
-- ✍️ Sharing my learning journey and projects on my [Blog](https://[你的博客链接]).
+- 📝 Writing about cities, technology, and creative thinking on my [Blog](https://modusensus.space).
+- ✍️ Sharing my learning journey and projects.
 
 <p>
   <samp>
-    <a href="https://[modusensus.space]">Blog</a> ·
+    <a href="https://modusensus.space">Blog</a>
   </samp>
 </p>
 
