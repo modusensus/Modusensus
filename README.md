@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=11F7DA&background=E9FFF100&width=435&lines=Hi%2C+I'm+Modusensus%EF%BC%81)](https://git.io/typing-svg)
+
     <code>Urban Planning · Public Management</code>
     <code>Exploring AI, Data & Design</code>
   </p>
