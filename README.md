@@ -25,7 +25,7 @@
 
 - **Urban Design & Spatial Equity** — Graduation project on GIS-based accessibility analysis.
 - **Python for Spatial Data** — Learning to apply data analysis and visualization in urban contexts.
-- **AI-Assisted Workflows** — Automating research and creative processes with tools like N8N and Dify.
+- **AI-Assisted Workflows** — Automating research and creative processes with tools.
 - **Digital Publishing** — Building a personal knowledge system through blogging and note-taking.
 
 ---
