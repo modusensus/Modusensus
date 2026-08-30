@@ -15,7 +15,10 @@
 
 <p>
   <samp>
-    <a href="https://modusensus.space">Blog</a>
+    <a href="https://modusensus.space">Blog</a> ·
+    <a href="https://modusensus.substack.com/">Substack</a> ·
+    <a href="https://www.linkedin.com/in/modusensus/">LinkedIn</a> ·
+    <a href="https://discord.gg/eCUsmjwpF">Discord</a>
   </samp>
 </p>
 
@@ -55,5 +58,5 @@
 
 ---
 
-> "Exploring how cities, data, and design can come together."  
+> "Exploring how cities, data, and design can come together."
 > — *Modusensus*
