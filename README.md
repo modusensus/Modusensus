@@ -17,8 +17,7 @@
   <samp>
     <a href="https://modusensus.space">Blog</a> ·
     <a href="https://modusensus.substack.com/">Substack</a> ·
-    <a href="https://www.linkedin.com/in/modusensus/">LinkedIn</a> ·
-    <a href="https://discord.gg/eCUsmjwpF">Discord</a>
+    <a href="https://www.linkedin.com/in/modusensus/">LinkedIn</a>
   </samp>
 </p>
 
