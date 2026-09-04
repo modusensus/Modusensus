@@ -1,17 +1,28 @@
-<div align="left">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=11F7DA&background=E9FFF100&width=435&lines=Hi%2C+I'm+Modusensus%EF%BC%81" alt="Typing SVG" />
-  </a>
-  <p>
-    <code>Urban Planning · Public Management</code>
-    <code>Exploring AI, Data & Design</code>
-  </p>
+<div align="center">
+
+&nbsp;
+
+# MODUSENSUS
+
+<sub>URBAN PLANNING · PUBLIC MANAGEMENT</sub>
+
+*Exploring AI, data & design.*
+
+&nbsp;
+
 </div>
 
-- 🏙️ Background in Urban Planning, interested in the intersection of spatial design, data analysis, and AI.
-- 🤖 Learning Python for spatial data analysis, building personal knowledge systems, and automation workflows.
-- 📝 Writing about cities, technology, and creative thinking on my [Blog](https://modusensus.space).
-- ✍️ Sharing my learning journey and projects.
+---
+
+### 01 · About
+
+City planner by training, curious by default. I'm interested in the intersection of spatial design, data analysis, and AI — currently learning Python for spatial data analysis, building a personal knowledge system, and automating my workflows.
+
+---
+
+### 02 · Writing
+
+Notes on cities, technology, and creative thinking.
 
 <p>
   <samp>
@@ -23,9 +34,10 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 03 · Toolkit
 
 **Data & Backend**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
@@ -35,6 +47,7 @@
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)
 
 **Frontend & Agent**
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -44,18 +57,28 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 **Spatial**
+
 ![GIS](https://img.shields.io/badge/GIS-589632?style=flat-square&logo=qgis&logoColor=white)
 
 ---
 
-### 🧭 What I'm currently exploring
+### 04 · Now
 
-- **Urban Design & Spatial Equity** — Graduation project on GIS-based accessibility analysis.
-- **Python for Spatial Data** — Learning to apply data analysis and visualization in urban contexts.
-- **AI-Assisted Workflows** — Automating research and creative processes with tools.
-- **Digital Publishing** — Building a personal knowledge system through blogging and note-taking.
+- **Urban Design & Spatial Equity** — graduation project on GIS-based accessibility analysis.
+- **Python for Spatial Data** — applying data analysis and visualization in urban contexts.
+- **AI-Assisted Workflows** — automating research and creative processes.
+- **Digital Publishing** — building a personal knowledge system through blogging and note-taking.
 
 ---
 
-> "Exploring how cities, data, and design can come together."
-> — *Modusensus*
+<div align="center">
+
+&nbsp;
+
+> *"Exploring how cities, data, and design can come together."*
+
+&nbsp;
+
+<sub>© 2026 Modusensus</sub>
+
+</div>
