@@ -1,13 +1,13 @@
 <div align="center">
 
-&nbsp;
+<img width="100%" src="https://capsule-render.vercel.app/api?type=veni&color=0:B03A2E,100:E5DCCB&height=140&section=header" alt="banner" />
 
 # MODUSENSUS
 
 <sub>URBAN PLANNING · PUBLIC MANAGEMENT</sub>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=11F7DA&background=E9FFF100&width=435&lines=Hi%2C+I'm+Modusensus%EF%BC%81;Exploring+AI%2C+data+%26+design." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C0392B&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Modusensus%EF%BC%81;Exploring+AI%2C+data+%26+design." alt="Typing SVG" />
 </a>
 
 &nbsp;
