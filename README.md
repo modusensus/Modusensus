@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=veni&color=0:B03A2E,100:E5DCCB&height=140&section=header" alt="banner" />
+<img width="100%" src="./banner.svg" alt="banner" />
 
 # MODUSENSUS
 
