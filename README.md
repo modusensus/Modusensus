@@ -6,7 +6,9 @@
 
 <sub>URBAN PLANNING · PUBLIC MANAGEMENT</sub>
 
-*Exploring AI, data & design.*
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=11F7DA&background=E9FFF100&width=435&lines=Hi%2C+I'm+Modusensus%EF%BC%81;Exploring+AI%2C+data+%26+design." alt="Typing SVG" />
+</a>
 
 &nbsp;
 
