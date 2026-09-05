@@ -45,31 +45,32 @@ I'm interested in the intersection of spatial design, data analysis, and AI — 
 *Tools I'm learning to build with.*
 
 <div align="center">
-
-<sub>DATA & BACKEND</sub>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)
-
-<sub>FRONTEND & AGENT</sub>
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-<sub>SPATIAL</sub>
-
-![GIS](https://img.shields.io/badge/GIS-589632?style=flat-square&logo=qgis&logoColor=white)
-
+<p><sub><b>DATA &amp; BACKEND</b></sub></p>
+<p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Python-EFE7D8?style=flat-square&logo=python&logoColor=1C1C1C"><img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=FFFFFF" alt="Python"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/FastAPI-EFE7D8?style=flat-square&logo=fastapi&logoColor=1C1C1C"><img src="https://img.shields.io/badge/FastAPI-111111?style=flat-square&logo=fastapi&logoColor=FFFFFF" alt="FastAPI"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/pandas-EFE7D8?style=flat-square&logo=pandas&logoColor=1C1C1C"><img src="https://img.shields.io/badge/pandas-111111?style=flat-square&logo=pandas&logoColor=FFFFFF" alt="pandas"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/NumPy-EFE7D8?style=flat-square&logo=numpy&logoColor=1C1C1C"><img src="https://img.shields.io/badge/NumPy-111111?style=flat-square&logo=numpy&logoColor=FFFFFF" alt="NumPy"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Matplotlib-EFE7D8?style=flat-square&logo=matplotlib&logoColor=1C1C1C"><img src="https://img.shields.io/badge/Matplotlib-111111?style=flat-square&logo=matplotlib&logoColor=FFFFFF" alt="Matplotlib"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/SQLite-EFE7D8?style=flat-square&logo=sqlite&logoColor=1C1C1C"><img src="https://img.shields.io/badge/SQLite-111111?style=flat-square&logo=sqlite&logoColor=FFFFFF" alt="SQLite"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Anaconda-EFE7D8?style=flat-square&logo=anaconda&logoColor=1C1C1C"><img src="https://img.shields.io/badge/Anaconda-111111?style=flat-square&logo=anaconda&logoColor=FFFFFF" alt="Anaconda"></picture>
+</p>
+<br/>
+<p><sub><b>FRONTEND &amp; AGENT</b></sub></p>
+<p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/HTML5-EFE7D8?style=flat-square&logo=html5&logoColor=1C1C1C"><img src="https://img.shields.io/badge/HTML5-111111?style=flat-square&logo=html5&logoColor=FFFFFF" alt="HTML5"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/CSS3-EFE7D8?style=flat-square&logo=css3&logoColor=1C1C1C"><img src="https://img.shields.io/badge/CSS3-111111?style=flat-square&logo=css3&logoColor=FFFFFF" alt="CSS3"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/JavaScript-EFE7D8?style=flat-square&logo=javascript&logoColor=1C1C1C"><img src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=FFFFFF" alt="JavaScript"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Node.js-EFE7D8?style=flat-square&logo=nodedotjs&logoColor=1C1C1C"><img src="https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=nodedotjs&logoColor=FFFFFF" alt="Node.js"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/NestJS-EFE7D8?style=flat-square&logo=nestjs&logoColor=1C1C1C"><img src="https://img.shields.io/badge/NestJS-111111?style=flat-square&logo=nestjs&logoColor=FFFFFF" alt="NestJS"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Figma-EFE7D8?style=flat-square&logo=figma&logoColor=1C1C1C"><img src="https://img.shields.io/badge/Figma-111111?style=flat-square&logo=figma&logoColor=FFFFFF" alt="Figma"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Docker-EFE7D8?style=flat-square&logo=docker&logoColor=1C1C1C"><img src="https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=FFFFFF" alt="Docker"></picture>
+</p>
+<br/>
+<p><sub><b>SPATIAL</b></sub></p>
+<p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GIS-EFE7D8?style=flat-square&logo=qgis&logoColor=1C1C1C"><img src="https://img.shields.io/badge/GIS-111111?style=flat-square&logo=qgis&logoColor=FFFFFF" alt="GIS"></picture>
+</p>
 </div>
 
 ---
