@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="./banner.jpg" alt="banner" />
+<img width="62%" src="./banner.jpg" alt="banner" />
 
 # MODUSENSUS
 
