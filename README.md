@@ -56,6 +56,14 @@ I'm interested in the intersection of spatial design, data analysis, and AI — 
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Anaconda-EFE7D8?style=flat-square&logo=anaconda&logoColor=1C1C1C"><img src="https://img.shields.io/badge/Anaconda-111111?style=flat-square&logo=anaconda&logoColor=FFFFFF" alt="Anaconda"></picture>
 </p>
 <br/>
+<p><sub><b>DATABASES</b></sub></p>
+<p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PostgreSQL-EFE7D8?style=flat-square&logo=postgresql&logoColor=1C1C1C"><img src="https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql&logoColor=FFFFFF" alt="PostgreSQL"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/MySQL-EFE7D8?style=flat-square&logo=mysql&logoColor=1C1C1C"><img src="https://img.shields.io/badge/MySQL-111111?style=flat-square&logo=mysql&logoColor=FFFFFF" alt="MySQL"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Redis-EFE7D8?style=flat-square&logo=redis&logoColor=1C1C1C"><img src="https://img.shields.io/badge/Redis-111111?style=flat-square&logo=redis&logoColor=FFFFFF" alt="Redis"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/MongoDB-EFE7D8?style=flat-square&logo=mongodb&logoColor=1C1C1C"><img src="https://img.shields.io/badge/MongoDB-111111?style=flat-square&logo=mongodb&logoColor=FFFFFF" alt="MongoDB"></picture>
+</p>
+<br/>
 <p><sub><b>FRONTEND &amp; AGENT</b></sub></p>
 <p>
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/HTML5-EFE7D8?style=flat-square&logo=html5&logoColor=1C1C1C"><img src="https://img.shields.io/badge/HTML5-111111?style=flat-square&logo=html5&logoColor=FFFFFF" alt="HTML5"></picture>
