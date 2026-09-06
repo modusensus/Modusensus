@@ -1,5 +1,11 @@
 <div align="center">
 
+# MODUSENSUS
+
+<sub>URBAN PLANNING · PUBLIC MANAGEMENT — EXPLORING AI, DATA & DESIGN</sub>
+
+</div>
+
 ```
 $ whoami
 Modusensus — urban planning · public management
@@ -56,6 +62,21 @@ linkedin  /in/modusensus
 
 <div align="center">
 
+<img src="https://streak-stats.demolab.com?user=modusensus&hide_border=true&background=EFE7D8&ring=B03A2E&fire=C0392B&currStreakNum=2B2B2B&currStreakLabel=6B5D4F&sideNums=2B2B2B&sideLabels=6B5D4F&dates=A89880" alt="GitHub streak" width="400" />
+
+</div>
+
 ---
 
 <div align="center">
+
+&nbsp;
+
+> *"Exploring how cities, data, and design can come together."*
+
+&nbsp;
+
+<sub>© 2026 MODUSENSUS · TYPESET WITH MARKDOWN</sub>
+
+</div>
+
