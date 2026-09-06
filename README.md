@@ -15,10 +15,10 @@ $ echo $STACK
 Python · FastAPI · pandas · SQLite · JavaScript · GIS
 
 $ progress
-python      ███████░░░ 70%
-agent-dev   ██████░░░░ 60%
-docker      ███░░░░░░░ 30%
-postgresql  ██░░░░░░░░ 15%
+python     ███████░░░  70%
+agent-dev  ██████░░░░  60%
+docker     ███░░░░░░░  30%
+postgresql ██░░░░░░░░  15%
 
 $ cat links.txt
 blog      https://modusensus.space
