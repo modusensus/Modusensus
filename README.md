@@ -1,46 +1,32 @@
 <div align="center">
 
-<sub>A PERSONAL JOURNAL &nbsp;·&nbsp; CITIES / DATA / DESIGN</sub>
-
-<br/>
-
-<img width="100%" src="./banner.jpg" alt="banner" />
-
 # MODUSENSUS
 
-<sub>URBAN PLANNING · PUBLIC MANAGEMENT</sub>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C0392B&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Modusensus%EF%BC%81;Exploring+AI%2C+data+%26+design." alt="Typing SVG" />
-</a>
+<sub>URBAN PLANNING · PUBLIC MANAGEMENT — EXPLORING AI, DATA & DESIGN</sub>
 
 </div>
 
----
+```
+$ whoami
+Modusensus — urban planning · public management
+exploring where cities meet data, code & AI
 
-### 01 · ABOUT
+$ echo $STACK
+Python · FastAPI · pandas · SQLite · JavaScript · GIS
 
-*City planner by training, curious by default.*
+$ echo $NOW
+learning Docker → databases (PostgreSQL next)
+building dsh-mneme — cross-session memory for agents
 
-I'm interested in the intersection of spatial design, data analysis, and AI — currently learning Python for spatial data analysis, building a personal knowledge system, and automating my workflows.
-
----
-
-### 02 · WRITING
-
-*Notes on cities, technology, and creative thinking.*
-
-<p>
-  <samp>
-    <a href="https://modusensus.space">Blog</a> ·
-    <a href="https://modusensus.substack.com/">Substack</a> ·
-    <a href="https://www.linkedin.com/in/modusensus/">LinkedIn</a>
-  </samp>
-</p>
+$ cat links.txt
+blog      https://modusensus.space
+substack  modusensus.substack.com
+linkedin  /in/modusensus
+```
 
 ---
 
-### 03 · TOOLKIT
+### 01 · TOOLKIT
 
 *Tools I'm learning to build with.*
 
@@ -83,7 +69,7 @@ I'm interested in the intersection of spatial design, data analysis, and AI — 
 
 ---
 
-### 04 · NOW
+### 02 · NOW
 
 *What I'm working on this season.*
 
@@ -94,7 +80,7 @@ I'm interested in the intersection of spatial design, data analysis, and AI — 
 
 ---
 
-### 05 · STREAK
+### 03 · STREAK
 
 <div align="center">
 
