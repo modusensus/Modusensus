@@ -14,9 +14,11 @@ exploring where cities meet data, code & AI
 $ echo $STACK
 Python · FastAPI · pandas · SQLite · JavaScript · GIS
 
-$ echo $NOW
-learning Docker → databases (PostgreSQL next)
-building dsh-mneme — cross-session memory for agents
+$ progress
+python      ███████░░░ 70%
+agent-dev   ██████░░░░ 60%
+docker      ███░░░░░░░ 30%
+postgresql  ██░░░░░░░░ 15%
 
 $ cat links.txt
 blog      https://modusensus.space
@@ -31,7 +33,6 @@ linkedin  /in/modusensus
 *Tools I'm learning to build with.*
 
 <div align="center">
-<p><sub><b>DATA &amp; BACKEND</b></sub></p>
 <p>
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Python-EFE7D8?style=flat-square&logo=python&logoColor=1C1C1C"><img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=FFFFFF" alt="Python"></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/FastAPI-EFE7D8?style=flat-square&logo=fastapi&logoColor=1C1C1C"><img src="https://img.shields.io/badge/FastAPI-111111?style=flat-square&logo=fastapi&logoColor=FFFFFF" alt="FastAPI"></picture>
@@ -40,18 +41,10 @@ linkedin  /in/modusensus
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Matplotlib-EFE7D8?style=flat-square&logo=matplotlib&logoColor=1C1C1C"><img src="https://img.shields.io/badge/Matplotlib-111111?style=flat-square&logo=matplotlib&logoColor=FFFFFF" alt="Matplotlib"></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/SQLite-EFE7D8?style=flat-square&logo=sqlite&logoColor=1C1C1C"><img src="https://img.shields.io/badge/SQLite-111111?style=flat-square&logo=sqlite&logoColor=FFFFFF" alt="SQLite"></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Anaconda-EFE7D8?style=flat-square&logo=anaconda&logoColor=1C1C1C"><img src="https://img.shields.io/badge/Anaconda-111111?style=flat-square&logo=anaconda&logoColor=FFFFFF" alt="Anaconda"></picture>
-</p>
-<br/>
-<p><sub><b>DATABASES</b></sub></p>
-<p>
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PostgreSQL-EFE7D8?style=flat-square&logo=postgresql&logoColor=1C1C1C"><img src="https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql&logoColor=FFFFFF" alt="PostgreSQL"></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/MySQL-EFE7D8?style=flat-square&logo=mysql&logoColor=1C1C1C"><img src="https://img.shields.io/badge/MySQL-111111?style=flat-square&logo=mysql&logoColor=FFFFFF" alt="MySQL"></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Redis-EFE7D8?style=flat-square&logo=redis&logoColor=1C1C1C"><img src="https://img.shields.io/badge/Redis-111111?style=flat-square&logo=redis&logoColor=FFFFFF" alt="Redis"></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/MongoDB-EFE7D8?style=flat-square&logo=mongodb&logoColor=1C1C1C"><img src="https://img.shields.io/badge/MongoDB-111111?style=flat-square&logo=mongodb&logoColor=FFFFFF" alt="MongoDB"></picture>
-</p>
-<br/>
-<p><sub><b>FRONTEND &amp; AGENT</b></sub></p>
-<p>
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/HTML5-EFE7D8?style=flat-square&logo=html5&logoColor=1C1C1C"><img src="https://img.shields.io/badge/HTML5-111111?style=flat-square&logo=html5&logoColor=FFFFFF" alt="HTML5"></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/CSS3-EFE7D8?style=flat-square&logo=css3&logoColor=1C1C1C"><img src="https://img.shields.io/badge/CSS3-111111?style=flat-square&logo=css3&logoColor=FFFFFF" alt="CSS3"></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/JavaScript-EFE7D8?style=flat-square&logo=javascript&logoColor=1C1C1C"><img src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=FFFFFF" alt="JavaScript"></picture>
@@ -59,28 +52,13 @@ linkedin  /in/modusensus
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/NestJS-EFE7D8?style=flat-square&logo=nestjs&logoColor=1C1C1C"><img src="https://img.shields.io/badge/NestJS-111111?style=flat-square&logo=nestjs&logoColor=FFFFFF" alt="NestJS"></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Figma-EFE7D8?style=flat-square&logo=figma&logoColor=1C1C1C"><img src="https://img.shields.io/badge/Figma-111111?style=flat-square&logo=figma&logoColor=FFFFFF" alt="Figma"></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Docker-EFE7D8?style=flat-square&logo=docker&logoColor=1C1C1C"><img src="https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=FFFFFF" alt="Docker"></picture>
-</p>
-<br/>
-<p><sub><b>SPATIAL</b></sub></p>
-<p>
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GIS-EFE7D8?style=flat-square&logo=qgis&logoColor=1C1C1C"><img src="https://img.shields.io/badge/GIS-111111?style=flat-square&logo=qgis&logoColor=FFFFFF" alt="GIS"></picture>
 </p>
 </div>
 
 ---
 
-### 02 · NOW
-
-*What I'm working on this season.*
-
-**01** · **Urban Design & Spatial Equity** — graduation project on GIS-based accessibility analysis.  
-**02** · **Python for Spatial Data** — applying data analysis and visualization in urban contexts.  
-**03** · **AI-Assisted Workflows** — automating research and creative processes.  
-**04** · **Digital Publishing** — building a personal knowledge system through blogging and note-taking.
-
----
-
-### 03 · STREAK
+### 02 · STREAK
 
 <div align="center">
 
