@@ -15,7 +15,7 @@ Modusensus — urban planning · public management
 exploring where cities meet data, code & AI
 
 $ echo $STACK
-Python · FastAPI · pandas · SQLite · JavaScript · GIS
+{stack}
 
 $ progress
 {bars}
@@ -29,14 +29,17 @@ linkedin  /in/modusensus"""
 def render_bar(name: str, percent: int) -> str:
     filled = round(percent / 10)
     bar = "█" * filled + "░" * (10 - filled)
-    label = f"{percent:>3}% ✓" if percent >= 100 else f"{percent:>3}%"
-    return f"{name:<10} {bar} {label}"
+    return f"{name:<10} {bar} {percent:>3}%"
 
 
 def build_terminal() -> str:
     data = json.loads((ROOT / "progress.json").read_text(encoding="utf-8"))
-    bars = "\n".join(render_bar(s["name"], int(s["percent"])) for s in data["skills"])
-    return "\n" + TEMPLATE.format(bars=bars) + "\n"
+    stack = " · ".join(data.get("stack", []))
+    in_progress = [s for s in data["skills"] if int(s["percent"]) < 100]
+    bars = "\n".join(render_bar(s["name"], int(s["percent"])) for s in in_progress)
+    if not bars:
+        bars = "all clear ✓"
+    return "\n" + TEMPLATE.format(stack=stack, bars=bars) + "\n"
 
 
 def main() -> None:

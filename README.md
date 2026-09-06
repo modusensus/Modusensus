@@ -12,12 +12,11 @@ Modusensus — urban planning · public management
 exploring where cities meet data, code & AI
 
 $ echo $STACK
-Python · FastAPI · pandas · SQLite · JavaScript · GIS
+Python · FastAPI · pandas · SQLite · Docker · JavaScript · GIS
 
 $ progress
 python     ███████░░░  70%
 agent-dev  ██████░░░░  60%
-docker     ██████████ 100% ✓
 javascript ██░░░░░░░░  25%
 postgresql ██░░░░░░░░  15%
 
