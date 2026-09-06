@@ -1,0 +1,35 @@
+name: Update progress bars
+
+on:
+  push:
+    paths:
+      - "progress.json"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: progress-render
+  cancel-in-progress: true
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Render progress bars
+        run: python3 .github/scripts/render_progress.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name "modusensus"
+          git config user.email "modusensus@users.noreply.github.com"
+          git add README.md
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: update learning progress bars"
+            git push
+          fi

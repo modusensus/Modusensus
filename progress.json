@@ -1,0 +1,8 @@
+{
+  "skills": [
+    { "name": "python", "percent": 70 },
+    { "name": "agent-dev", "percent": 60 },
+    { "name": "docker", "percent": 30 },
+    { "name": "postgresql", "percent": 15 }
+  ]
+}
