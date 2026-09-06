@@ -17,7 +17,8 @@ Python · FastAPI · pandas · SQLite · JavaScript · GIS
 $ progress
 python     ███████░░░  70%
 agent-dev  ██████░░░░  60%
-docker     ███░░░░░░░  30%
+docker     ██████████ 100% ✓
+javascript ██░░░░░░░░  25%
 postgresql ██░░░░░░░░  15%
 
 $ cat links.txt
