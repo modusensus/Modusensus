@@ -1,5 +1,5 @@
 {
-  "stack": ["Python", "FastAPI", "pandas", "SQLite", "Docker", "JavaScript", "GIS"],
+  "stack": ["Python", "Docker", "GIS"],
   "skills": [
     { "name": "python", "percent": 70 },
     { "name": "agent-dev", "percent": 60 },
