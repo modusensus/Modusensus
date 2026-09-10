@@ -1,11 +1,3 @@
-<div align="center">
-
-# MODUSENSUS
-
-<sub>URBAN PLANNING · PUBLIC MANAGEMENT — EXPLORING AI, DATA & DESIGN</sub>
-
-</div>
-
 ```
 $ whoami
 Modusensus — urban planning · public management
@@ -76,7 +68,7 @@ linkedin  /in/modusensus
 
 &nbsp;
 
-<sub>© 2026 MODUSENSUS · TYPESET WITH MARKDOWN</sub>
+<sub>© 2026 MODUSENSUS </sub>
 
 </div>
 
