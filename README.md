@@ -72,6 +72,12 @@ linkedin  /in/modusensus
 
 &nbsp;
 
+<sub>如果你喜欢我正在写的东西、做的项目，或者单纯觉得这个小小的个人工作室值得继续存在，可以<a href="https://ifdian.net/a/modusensus">这里</a>给它一点燃料。</sub>
+
+<sub>我会继续写，继续做，继续研究一些暂时没有答案的问题。<br/>至于奖励——不用把它想得太复杂。你支持的不是某个固定数量的内容，而是让我可以继续做这些事情本身。</sub>
+
+&nbsp;
+
 <a href="https://ifdian.net/a/modusensus">
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Afdian-EFE7D8?style=flat-square&logo=afdian&logoColor=1C1C1C"><img src="https://img.shields.io/badge/Afdian-111111?style=flat-square&logo=afdian&logoColor=FFFFFF" alt="Afdian"></picture>
 </a>
