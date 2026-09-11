@@ -23,7 +23,8 @@ $ progress
 $ cat links.txt
 blog      https://modusensus.space
 substack  modusensus.substack.com
-linkedin  /in/modusensus"""
+linkedin  /in/modusensus
+afdian    https://ifdian.net/a/modusensus"""
 
 
 def render_bar(name: str, percent: int) -> str:

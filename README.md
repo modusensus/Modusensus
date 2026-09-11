@@ -16,6 +16,7 @@ $ cat links.txt
 blog      https://modusensus.space
 substack  modusensus.substack.com
 linkedin  /in/modusensus
+afdian    https://ifdian.net/a/modusensus
 ```
 
 ---
