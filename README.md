@@ -16,7 +16,6 @@ $ cat links.txt
 blog      https://modusensus.space
 substack  modusensus.substack.com
 linkedin  /in/modusensus
-afdian    https://ifdian.net/a/modusensus
 ```
 
 ---
@@ -70,6 +69,12 @@ afdian    https://ifdian.net/a/modusensus
 &nbsp;
 
 <sub>© 2026 MODUSENSUS </sub>
+
+&nbsp;
+
+<a href="https://ifdian.net/a/modusensus">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Afdian-EFE7D8?style=flat-square&logo=afdian&logoColor=1C1C1C"><img src="https://img.shields.io/badge/Afdian-111111?style=flat-square&logo=afdian&logoColor=FFFFFF" alt="Afdian"></picture>
+</a>
 
 </div>
 
