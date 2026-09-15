@@ -4,6 +4,7 @@
     { "name": "python", "percent": 70 },
     { "name": "agent-dev", "percent": 60 },
     { "name": "javascript", "percent": 25 },
+    { "name": "html", "percent": 50 },
     { "name": "postgresql", "percent": 15 }
   ]
 }

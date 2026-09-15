@@ -3,6 +3,9 @@ $ whoami
 Modusensus — urban planning · public management
 exploring where cities meet data, code & AI
 
+$ date --born
+2004-09-20
+
 $ echo $STACK
 Python · Docker · GIS
 
@@ -10,12 +13,9 @@ $ progress
 python     ███████░░░  70%
 agent-dev  ██████░░░░  60%
 javascript ██░░░░░░░░  25%
+html       █████░░░░░  50%
 postgresql ██░░░░░░░░  15%
 
-$ cat links.txt
-blog      https://modusensus.space
-substack  modusensus.substack.com
-linkedin  /in/modusensus
 ```
 
 ---
@@ -83,4 +83,3 @@ linkedin  /in/modusensus
 </a>
 
 </div>
-

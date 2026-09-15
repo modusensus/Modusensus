@@ -14,16 +14,15 @@ TEMPLATE = """$ whoami
 Modusensus — urban planning · public management
 exploring where cities meet data, code & AI
 
+$ date --born
+2004-09-20
+
 $ echo $STACK
 {stack}
 
 $ progress
 {bars}
-
-$ cat links.txt
-blog      https://modusensus.space
-substack  modusensus.substack.com
-linkedin  /in/modusensus"""
+"""
 
 
 def render_bar(name: str, percent: int) -> str:
