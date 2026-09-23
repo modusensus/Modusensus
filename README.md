@@ -54,7 +54,7 @@ postgresql ██░░░░░░░░  15%
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=modusensus&hide_border=true&background=EFE7D8&ring=B03A2E&fire=C0392B&currStreakNum=2B2B2B&currStreakLabel=6B5D4F&sideNums=2B2B2B&sideLabels=6B5D4F&dates=A89880" alt="GitHub streak" width="400" />
+<img src="https://streak-stats.demolab.com/?user=modusensus&hide_border=true&background=EFE7D8&ring=B03A2E&fire=C0392B&currStreakNum=2B2B2B&currStreakLabel=6B5D4F&sideNums=2B2B2B&sideLabels=6B5D4F&dates=A89880" alt="GitHub streak" width="400" />
 
 </div>
 
