@@ -9,11 +9,14 @@ $ date --born
 $ echo $STACK
 Python · Docker · GIS
 
+$ research
+agent memory
+ai governance
+
 $ progress
 python     ███████░░░  70%
-agent-dev  ██████░░░░  60%
 javascript ██░░░░░░░░  25%
-html       █████░░░░░  50%
+css        ██░░░░░░░░  20%
 postgresql ██░░░░░░░░  15%
 
 ```
